@@ -1,0 +1,10 @@
+{
+  "title": "That Multiverse",
+  "url": "https://that.world",
+  "baseUrl": "/",
+  "author": "Wei Tang",
+  "email": "wei@that.world",
+  "sitemap": {
+    "enable": false
+  }
+}

@@ -1,0 +1,17 @@
+= That Multiverse
+Wei Tang <wei@that.world>
+
+[quote, Paul McAuley, Evening’s Empires]
+The multiverse, she said, was like an old library whose shelves were packed with
+books arranged by a cataloguing system that ranked them according to similarity,
+each book containing within its covers a story that varied only slightly from
+the stories of its immediate neighbours, but by increasing degrees from those of
+increasingly distant books.
+
+[meta=description]
+Here are illusions, dreams and imaginations in the form of science fictions,
+essays, computer arts and algorithmic music. Each of them has its unique rules
+and settings. Those multiverses are mainly maintained by Wei Tang.
+
+If you are looking for real stuff, go to link:https://that.world/~wei[Wei in the
+Real World].
